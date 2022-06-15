@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" href="CSS.css">
+	</head>
+	<body>
+		<div class="main">
+			<div>
+				<a href="home.php"><img class="logo" height="50" width="50" src="images/logo.jpg"></img></a>
+			</div>
+			<div class="floatright">
+				<a href="home.php" class="link"><span>Home</span></a>
+				<a href="vote.php" class="link"><span>Vote</span></a>
+				<a href="info.php" class="link"><span>Info</span></a>
+			</div>
+				<a href="https://discord.gg/d4aEt55U"><img src="images/dc.jpeg" class="discord"></a>
+		</div>
+	</body>
+</html>
